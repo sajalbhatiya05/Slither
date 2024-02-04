@@ -52,7 +52,7 @@ function gameEngine (){
         moveSound.pause();
         snakeVelocity={x:0, y:0};
         // window.location=window.location;
-        alert("Game Over");
+        alert("Game-Over");
         // moveSound.play();
         snakeArr = [{x: 10, y: 12}];
         food = {x: 13, y:4};
